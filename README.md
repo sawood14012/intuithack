@@ -1,4 +1,4 @@
-# hackaman
+# MTA
 
 ## Project setup
 ```
